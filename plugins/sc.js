@@ -7,12 +7,6 @@ let teks = `
 │ • *Link:* https://github.com/Nurutomo/wabot-aq
 │ • *Link:* https://github.com/unx21/haachamaa
 │
-│
-│    _Haachamaa Heree_
-│
-│ • *Heree:*
-│ https://chat.whatsapp.com/Ij7zZoDTDgHAi9TTfzu0ay
-│
 │  _Made With 💛🖤❤️💙 by unx_
 ╰────────
 `.trim()
